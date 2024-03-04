@@ -31,7 +31,7 @@ global.packname = "LISA"
 global.author = "🤍\n\n+916909137213"
 global.creator = "918518030321@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["918518030321"] // Premium User
+global.premium = ["918518030321","8801922024324","9191174493135"] // Premium User
 global.hituet = 0
 
 //bot sett
